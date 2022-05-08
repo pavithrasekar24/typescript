@@ -1,0 +1,8 @@
+{
+  "name": "4xba3a--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "4.6.2"
+  }
+}
